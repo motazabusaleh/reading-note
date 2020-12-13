@@ -8,3 +8,6 @@
 * staying positive and dont let others effcet you
 * be your self
 
+#### **Programs needed for the software develpoment** 
+1.windows terminal 
+2.Visual studio 
