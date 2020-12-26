@@ -1,4 +1,4 @@
-#**command line Commands explained** 
+# **command line Commands explained** 
 
 * pwd: (print working directory) print the list of file or folders inside of a folder
 * ls (list): to view the items in ur list(folders)
