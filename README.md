@@ -9,5 +9,5 @@
 * be your self
 
 #### **Programs needed for the software develpoment** 
-1.windows terminal 
+1.windows terminal (ubunntu)
 2.Visual studio 
